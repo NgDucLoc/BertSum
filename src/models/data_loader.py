@@ -1,4 +1,4 @@
-import gc
+set import gc
 import glob
 import random
 
